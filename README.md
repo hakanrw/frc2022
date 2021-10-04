@@ -1,2 +1,2 @@
 # EnkaTech-FrcInfiniteRecharge
-2020 FRC Code
+Legacy FRC code from 2021 season
