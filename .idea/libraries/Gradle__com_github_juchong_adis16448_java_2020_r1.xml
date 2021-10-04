@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.juchong:adis16448-java:2020.r1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.juchong/adis16448-java/2020.r1/986ee5b1cc0751cf034e71a40e3db8e9aad4c2ca/adis16448-java-2020.r1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.juchong/adis16448-java/2020.r1/6eb1110a59d5b3eb7c0a4e1b9f1f947f845ce7f4/adis16448-java-2020.r1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.juchong/adis16448-java/2020.r1/a154cac205e8bdc770c4c4bace2cbf732f95f424/adis16448-java-2020.r1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
